@@ -1,0 +1,14 @@
+Package: com.dmarxax.iconranamer
+Version: 0.1.2-beta
+Architecture: iphoneos-arm
+aintainer: kingdmar <email@g.mail>
+Depends: <bundleids>
+Filename: /IconRenamer.deb
+Size: 21782
+MD5sum: e12119ac01e2dd8747f8b446d94ff5c4
+SHA1: c7a1dc80c0904dc8a2c927082f6687e9fc5e27b7
+SHA256: c43bb8d12f8091b56752e243df5a7ece20e0635dbaebe578d90e4eef7015ef37
+Section: Tweaks
+Description: a tweak for Changing icon Name
+Author: kingdmar <email@gmail.com
+Name: IconRenamer
